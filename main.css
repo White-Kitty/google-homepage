@@ -1,0 +1,46 @@
+header ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+header li {
+	float: right;
+}
+header a {
+	display: block;
+	width: 75px;
+	color: #000000;
+}
+body img {
+	width: 22%;
+	margin-left: 324px;
+	margin-top: 150px;
+	padding: 50px;
+	clear: both;
+}
+form {
+	width: 25%;
+	margin: auto;
+}
+table {
+	width: 100%;
+	margin: auto;
+}
+footer {
+	position: fixed;
+	bottom: 0;
+	height: 45px;
+}
+footer ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+footer li {
+	float: left;
+}
+footer a {
+	display: block;
+	width: 125px;
+	color: gray;
+}
